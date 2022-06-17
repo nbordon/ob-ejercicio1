@@ -1,7 +1,7 @@
 package com.ob.domain;
 
 public class Saludo {
-    public String saludar(){
+    public String imprimirSaludo(){
         return "Hola Mundo!";
     }
 }
